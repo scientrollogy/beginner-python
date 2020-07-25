@@ -37,6 +37,5 @@ def choose():
             print(error_text)
 
 
-if __name__ == "__main__":
-    while True:
-        choose()
+while True:
+    choose()
